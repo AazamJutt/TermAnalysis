@@ -13,4 +13,20 @@
 Run the MenuLauncher.java file to run main method.
 
 ## Output:
-Output is displayed in the files in "output" folder.
+ Output is displayed in the files in "output" folder.
+<div align="center">
+  A Sample of ManuLauncher run.<br>
+ <img src="https://github.com/AazamJutt/TermAnalysis/blob/main/samples/run_sample.png"><br>
+  <br>
+  <br>
+ 
+  A Sample of Output from the above run sample, in output/top_20_terms.txt.<br>
+  <img src="https://github.com/AazamJutt/TermAnalysis/blob/main/samples/top_20_terms_sample.png"><br>
+  <br>
+ <br>
+ 
+ A Sample of Output after choosing Option 1 from the menu, in file output/term.txt.<br>
+ <img src="https://github.com/AazamJutt/TermAnalysis/blob/main/samples/terms_sample.png"><br>
+  <br>
+ <br>
+</div>
