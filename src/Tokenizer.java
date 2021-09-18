@@ -101,7 +101,7 @@ public class Tokenizer {
         //Initialize Stopwords List
         String line = null;
         try {
-            File file = new File("stopwords.txt");    //creates a new file instance
+            File file = new File("reources/stopwords.txt");
             FileReader fr = new FileReader(file);   //reads the file
             BufferedReader br = new BufferedReader(fr);  //creates a buffering character input stream
             while ((line = br.readLine()) != null) {
@@ -158,11 +158,5 @@ public class Tokenizer {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-    }
-
-    public static void main(String[] args) {
-        Tokenizer tokenizer = new Tokenizer("mobydick.txt");
-        tokenizer.tokenize();
-        printToFile("tokenized.txt",tokenizer.getTokens());
     }
 }

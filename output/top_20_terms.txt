@@ -1,0 +1,23 @@
+--------------------------
+         Term |  Frequency
+--------------+-----------
+        whale |       1405
+         ship |        546
+          sea |        495
+          man |        493
+         ahab |        475
+         boat |        433
+         head |        412
+         time |        396
+          old |        388
+         hand |        328
+         look |        325
+          sai |        301
+      captain |        300
+         long |        286
+        thing |        281
+          wai |        268
+        white |        260
+         come |        260
+        great |        257
+          two |        251

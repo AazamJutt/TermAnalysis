@@ -51,10 +51,4 @@ public class FrequencyCounter {
             e.printStackTrace();
         }
     }
-    public static void main(String[] args) {
-        Tokenizer tokenizer = new Tokenizer("mobydick.txt");
-        tokenizer.tokenize();
-        List<String> terms = tokenizer.getTokens();
-        print_N_MostFrequentTermsToFile("terms.txt",terms,200);
-    }
 }
